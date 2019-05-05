@@ -1,0 +1,13 @@
+.idea
+.env
+composer.lock
+*.log
+Thumbs.db
+ehthumbs.db
+desktop.ini
+php_error.log
+config/database.php
+config/votedatabase.php
+runtime/
+vue/
+vendor/
